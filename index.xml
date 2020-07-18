@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Entrega 1</title>
-      <link>https://jtlatrach96.github.io/docs/entrega-1/</link>
+      <title>Entrega 1: Planimetrías</title>
+      <link>https://jtlatrach96.github.io/docs/ejercicio-planimetrias/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://jtlatrach96.github.io/docs/entrega-1/</guid>
-      <description>entrega 1.</description>
+      <guid>https://jtlatrach96.github.io/docs/ejercicio-planimetrias/</guid>
+      <description>Planimetrías</description>
+    </item>
+    
+    <item>
+      <title>Entrega 2: Mecanizado CNC</title>
+      <link>https://jtlatrach96.github.io/docs/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/mecanizado-cnc/</guid>
+      <description>Planimetrías</description>
     </item>
     
   </channel>
