@@ -38,5 +38,34 @@
       <description>CNC</description>
     </item>
     
+    <item>
+      <title>Tutorial de diseño generativo</title>
+      <link>https://jtlatrach96.github.io/docs/dise%C3%B1o-generativo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/dise%C3%B1o-generativo/</guid>
+      <description>En este tutorial se muestra paso a paso como realizar un diseño generativo para un objeto usando de herramienta el programa Fusion 360.
+Comenzamos con una figura ya hecha y seleccionamos las geometrías que queremos que se preserven, las piezas en verde en este caso.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial de moldes</title>
+      <link>https://jtlatrach96.github.io/docs/moldes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/moldes/</guid>
+      <description>En este tutorial se muestra paso a paso como crear un molde para un objeto usando de herramienta el programa Fusion 360.
+Se comienza realizando un sketch de la forma que se quiere realizar, dandole un eje de simetría, la cual es la línea punteada</description>
+    </item>
+    
+    <item>
+      <title>Tutorial de superficies</title>
+      <link>https://jtlatrach96.github.io/docs/superficies/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/superficies/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
   </channel>
 </rss>
