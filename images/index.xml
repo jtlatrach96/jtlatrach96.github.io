@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabricación Digital on José Latrach</title>
+    <link>https://jtlatrach96.github.io/</link>
+    <description>Recent content in Fabricación Digital on José Latrach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="https://jtlatrach96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bonus: Mecanizado Palmeta</title>
+      <link>https://jtlatrach96.github.io/docs/mecanizado-palmeta/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/mecanizado-palmeta/</guid>
+      <description>CNC</description>
+    </item>
+    
+    <item>
+      <title>Entrega 1: Planimetrías</title>
+      <link>https://jtlatrach96.github.io/docs/ejercicio-planimetrias/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/ejercicio-planimetrias/</guid>
+      <description>Planimetrías</description>
+    </item>
+    
+    <item>
+      <title>Entrega 2: Mecanizado CNC</title>
+      <link>https://jtlatrach96.github.io/docs/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/mecanizado-cnc/</guid>
+      <description>Planimetrías</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3: Mecanizado 2.5D</title>
+      <link>https://jtlatrach96.github.io/docs/mecanizado-2.5d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/mecanizado-2.5d/</guid>
+      <description>CNC</description>
+    </item>
+    
+    <item>
+      <title>Investigación de Materiales</title>
+      <link>https://jtlatrach96.github.io/docs/investigaci%C3%B3n-de-materiales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/investigaci%C3%B3n-de-materiales/</guid>
+      <description>Materiales</description>
+    </item>
+    
+    <item>
+      <title>Tutorial de diseño generativo</title>
+      <link>https://jtlatrach96.github.io/docs/dise%C3%B1o-generativo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/dise%C3%B1o-generativo/</guid>
+      <description>En este tutorial se muestra paso a paso como realizar un diseño generativo para un objeto usando de herramienta el programa Fusion 360.
+Comenzamos con una figura ya hecha y seleccionamos las geometrías que queremos que se preserven, las piezas en verde en este caso.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial de moldes</title>
+      <link>https://jtlatrach96.github.io/docs/moldes/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/moldes/</guid>
+      <description>En este tutorial se muestra paso a paso como crear un molde para un objeto usando de herramienta el programa Fusion 360.
+Se comienza realizando un sketch de la forma que se quiere realizar, dandole un eje de simetría, la cual es la línea punteada</description>
+    </item>
+    
+    <item>
+      <title>Tutorial de superficies</title>
+      <link>https://jtlatrach96.github.io/docs/superficies/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/superficies/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+  </channel>
+</rss>
