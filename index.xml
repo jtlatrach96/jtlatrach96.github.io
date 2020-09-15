@@ -112,5 +112,23 @@ Se comienza realizando un sketch de la forma que se quiere realizar, dandole un 
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
+    <item>
+      <title>Examen: Nuestro Producto</title>
+      <link>https://jtlatrach96.github.io/docs/examen-producto/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/examen-producto/</guid>
+      <description>Examen Parte 1</description>
+    </item>
+    
+    <item>
+      <title>Examen: Proceso Investigación</title>
+      <link>https://jtlatrach96.github.io/docs/examen-macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://jtlatrach96.github.io/docs/examen-macetero/</guid>
+      <description>Examen Parte 2</description>
+    </item>
+    
   </channel>
 </rss>
